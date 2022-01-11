@@ -6,5 +6,5 @@
 
 ### contacts
 ✈️ Telegram - [@sayolight](https://t.me/sayolight)  
-🎮 Discord - [сайолайт#3524](https://discord.com/users/568106703183151105)  
+🎮 Discord - [sayolight#2766](https://discord.com/users/568106703183151105)  
 📧 E-Mail - [kagerouls016@gmail.com](mailto:kagerouls016@gmail.com)
