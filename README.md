@@ -1,4 +1,3 @@
-### hellom
 [![Readme Card](https://github-readme-stats.vercel.app/api?username=sayolight&show_icons=true&theme=radical)](https://github.com/sayolight)
 
 ### projects
