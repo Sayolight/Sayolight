@@ -1,7 +1,7 @@
 [![Readme Card](https://github-readme-stats.vercel.app/api?username=sayolight&show_icons=true&theme=radical)](https://github.com/sayolight)
 
 ### projects
-✈️ [@slowreverberbot](https://t.me/slowreverberbot) - tg bot, makes slowed+reverb remixes
+✈️ [@slowreverberbot](https://t.me/slowreverberbot) - tg bot, makes slowed+reverb remixes  
 ✈️ [@sayo_plstrbot](https://t.me/sayo_plstrbot) - tg bot, adding chat members favorite songs to Spotify playlist 
 
 ### contacts
